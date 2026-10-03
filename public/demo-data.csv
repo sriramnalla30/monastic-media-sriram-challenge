@@ -1,0 +1,246 @@
+date,ad_id,creative_name,format,impressions,clicks,spend_inr
+2026-09-01,DEMO-01,"Demo 01 (video, problem-first hook)",video,8682,209,1528.36
+2026-09-01,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,8687,192,1430.12
+2026-09-01,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,6381,89,966.72
+2026-09-01,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,493,9,75.74
+2026-09-01,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8864,183,1373.5
+2026-09-01,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,5667,103,1064.88
+2026-09-01,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7107,127,1343.58
+2026-09-01,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,5910,98,954.96
+2026-09-02,DEMO-01,"Demo 01 (video, problem-first hook)",video,8359,201,1356.99
+2026-09-02,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,10100,211,1749.97
+2026-09-02,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,7194,99,1236.72
+2026-09-02,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,456,9,72.16
+2026-09-02,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,9324,185,1515.76
+2026-09-02,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,6102,107,988.47
+2026-09-02,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7412,136,1184.17
+2026-09-02,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6596,106,1220.3
+2026-09-03,DEMO-01,"Demo 01 (video, problem-first hook)",video,9413,230,1781.01
+2026-09-03,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,8774,184,1581.83
+2026-09-03,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,6512,91,987.01
+2026-09-03,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,516,10,89.23
+2026-09-03,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,9675,190,1720.33
+2026-09-03,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,6113,107,1028.5
+2026-09-03,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7475,141,1263.01
+2026-09-03,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6713,103,1195.31
+2026-09-04,DEMO-01,"Demo 01 (video, problem-first hook)",video,9264,243,1694.17
+2026-09-04,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,9090,186,1606.62
+2026-09-04,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,6331,88,992.21
+2026-09-04,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,461,8,83.32
+2026-09-04,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8332,162,1380.1
+2026-09-04,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,6445,105,1082.55
+2026-09-04,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7069,132,1292.01
+2026-09-04,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6973,109,1161.78
+2026-09-05,DEMO-01,"Demo 01 (video, problem-first hook)",video,8745,227,1646.76
+2026-09-05,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,8836,173,1407.38
+2026-09-05,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,6626,93,1150.04
+2026-09-05,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,476,8,79.38
+2026-09-05,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8764,176,1648.72
+2026-09-05,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,6228,104,1088.05
+2026-09-05,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7246,125,1347.62
+2026-09-05,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6863,114,1248.48
+2026-09-05,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8317,198,1281.99
+2026-09-06,DEMO-01,"Demo 01 (video, problem-first hook)",video,9241,221,1411.04
+2026-09-06,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,8946,171,1463.58
+2026-09-06,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,6373,85,994.51
+2026-09-06,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,460,8,69.47
+2026-09-06,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,9673,196,1508.43
+2026-09-06,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,5702,92,938.36
+2026-09-06,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,6471,121,1227.7
+2026-09-06,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6455,103,990.43
+2026-09-06,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,7823,185,1256.3
+2026-09-07,DEMO-01,"Demo 01 (video, problem-first hook)",video,9591,232,1447.51
+2026-09-07,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,10356,201,1614.13
+2026-09-07,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,7060,94,1208.14
+2026-09-07,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,547,10,97.28
+2026-09-07,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8570,169,1342.76
+2026-09-07,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,6326,102,1146.03
+2026-09-07,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,6761,118,1233.62
+2026-09-07,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,7130,118,1299.39
+2026-09-07,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,9041,222,1438.15
+2026-09-08,DEMO-01,"Demo 01 (video, problem-first hook)",video,9031,223,1365.12
+2026-09-08,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,8603,159,1379.64
+2026-09-08,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,7269,106,1220.39
+2026-09-08,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,543,10,102.19
+2026-09-08,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8756,170,1392.85
+2026-09-08,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,5636,86,986.09
+2026-09-08,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7560,141,1278.99
+2026-09-08,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6698,110,1027.41
+2026-09-08,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8772,219,1590.29
+2026-09-09,DEMO-01,"Demo 01 (video, problem-first hook)",video,9450,236,1484.98
+2026-09-09,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,10049,182,1829.25
+2026-09-09,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,7660,106,1271.98
+2026-09-09,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,544,9,85.3
+2026-09-09,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8328,161,1550.62
+2026-09-09,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,6367,94,1165.55
+2026-09-09,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7672,140,1258.33
+2026-09-09,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6563,101,988.19
+2026-09-09,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,9300,227,1590.89
+2026-09-10,DEMO-01,"Demo 01 (video, problem-first hook)",video,9780,243,1808.03
+2026-09-10,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,10119,177,1619.78
+2026-09-10,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,479,7,83.09
+2026-09-10,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8566,170,1329.81
+2026-09-10,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,6492,96,1092.78
+2026-09-10,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7116,133,1187.13
+2026-09-10,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,7043,113,1206.28
+2026-09-10,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8539,195,1431.18
+2026-09-11,DEMO-01,"Demo 01 (video, problem-first hook)",video,8429,200,1533.8
+2026-09-11,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,8877,155,1589.05
+2026-09-11,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,505,8,86.22
+2026-09-11,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,9099,112,1403.47
+2026-09-11,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,6072,87,978.06
+2026-09-11,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7381,133,1272.99
+2026-09-11,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6837,114,1146.77
+2026-09-11,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8691,209,1481.7
+2026-09-12,DEMO-01,"Demo 01 (video, problem-first hook)",video,9346,233,1601.26
+2026-09-12,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,9458,169,1683.23
+2026-09-12,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,537,8,86.13
+2026-09-12,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,9107,114,1672.05
+2026-09-12,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,5564,77,933.0
+2026-09-12,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,6401,112,978.87
+2026-09-12,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6720,111,1249.12
+2026-09-12,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,7912,194,1395.76
+2026-09-13,DEMO-01,"Demo 01 (video, problem-first hook)",video,8357,217,1576.98
+2026-09-13,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,8967,156,1487.9
+2026-09-13,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,498,8,91.28
+2026-09-13,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8390,100,1431.54
+2026-09-13,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,5806,79,944.87
+2026-09-13,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7311,125,1258.68
+2026-09-13,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6422,98,1048.46
+2026-09-13,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8710,209,1328.9
+2026-09-14,DEMO-01,"Demo 01 (video, problem-first hook)",video,9873,254,1864.69
+2026-09-14,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,8749,139,1326.2
+2026-09-14,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,527,7,81.78
+2026-09-14,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8860,111,1619.25
+2026-09-14,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,5710,75,1066.44
+2026-09-14,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7098,130,1090.1
+2026-09-14,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,5924,97,989.38
+2026-09-14,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,7773,195,1363.21
+2026-09-15,DEMO-01,"Demo 01 (video, problem-first hook)",video,9542,229,1758.11
+2026-09-15,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,8676,142,1458.88
+2026-09-15,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,6774,95,1267.19
+2026-09-15,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,476,6,81.43
+2026-09-15,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8529,98,1334.43
+2026-09-15,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,5460,71,887.14
+2026-09-15,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,6727,83,1087.07
+2026-09-15,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6500,79,1065.22
+2026-09-15,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,7680,97,1156.71
+2026-09-16,DEMO-01,"Demo 01 (video, problem-first hook)",video,9419,237,1484.23
+2026-09-16,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,9452,151,1457.98
+2026-09-16,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,7446,104,1264.33
+2026-09-16,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,533,7,90.75
+2026-09-16,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,9337,117,1528.54
+2026-09-16,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,6398,85,1122.46
+2026-09-16,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,6866,81,1044.84
+2026-09-16,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6018,72,1081.05
+2026-09-16,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8084,102,1239.92
+2026-09-17,DEMO-01,"Demo 01 (video, problem-first hook)",video,9614,249,1699.96
+2026-09-17,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,9085,132,1469.25
+2026-09-17,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,6943,94,1165.26
+2026-09-17,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,476,6,89.92
+2026-09-17,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,9084,106,1713.48
+2026-09-17,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,5771,72,865.9
+2026-09-17,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,6834,82,1162.54
+2026-09-17,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6111,76,917.86
+2026-09-17,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8099,101,1344.28
+2026-09-18,DEMO-01,"Demo 01 (video, problem-first hook)",video,8175,195,1325.74
+2026-09-18,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,8992,131,1539.14
+2026-09-18,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,7350,105,1313.0
+2026-09-18,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,537,7,87.56
+2026-09-18,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,9872,114,1766.75
+2026-09-18,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,6171,73,1131.83
+2026-09-18,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7548,92,1353.76
+2026-09-18,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6905,83,1180.41
+2026-09-18,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8507,114,1549.87
+2026-09-19,DEMO-01,"Demo 01 (video, problem-first hook)",video,9587,242,1780.43
+2026-09-19,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,9847,141,1567.62
+2026-09-19,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,6343,86,1042.97
+2026-09-19,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,460,6,79.28
+2026-09-19,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,9229,112,1635.62
+2026-09-19,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,5987,68,1089.08
+2026-09-19,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7347,88,1259.33
+2026-09-19,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6707,80,1203.72
+2026-09-19,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8078,101,1297.51
+2026-09-20,DEMO-01,"Demo 01 (video, problem-first hook)",video,9412,228,1690.33
+2026-09-20,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,10403,141,1719.64
+2026-09-20,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,6970,99,1259.33
+2026-09-20,DEMO-04,"Demo 04 (video, unboxing) - launched late",video,8187,166,1253.42
+2026-09-20,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,464,5,83.39
+2026-09-20,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8647,174,1301.36
+2026-09-20,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,5472,62,967.89
+2026-09-20,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7269,89,1174.92
+2026-09-20,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6521,81,1099.79
+2026-09-20,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,7851,106,1240.22
+2026-09-21,DEMO-01,"Demo 01 (video, problem-first hook)",video,9860,257,1485.9
+2026-09-21,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,9422,127,1778.16
+2026-09-21,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,6929,95,1097.51
+2026-09-21,DEMO-04,"Demo 04 (video, unboxing) - launched late",video,8712,169,1509.43
+2026-09-21,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,464,5,87.28
+2026-09-21,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8338,172,1420.38
+2026-09-21,DEMO-07,"Demo 07 (static, new launch) - paused last week",static,6464,75,1029.43
+2026-09-21,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7556,91,1140.91
+2026-09-21,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,5854,73,983.65
+2026-09-21,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8163,102,1336.76
+2026-09-22,DEMO-01,"Demo 01 (video, problem-first hook)",video,8668,224,1300.8
+2026-09-22,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,9976,131,1544.3
+2026-09-22,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,7596,109,1413.33
+2026-09-22,DEMO-04,"Demo 04 (video, unboxing) - launched late",video,7663,151,1269.88
+2026-09-22,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,549,6,90.27
+2026-09-22,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8870,173,1347.63
+2026-09-22,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,6442,80,1039.9
+2026-09-22,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,7066,86,1135.01
+2026-09-22,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8518,107,1404.91
+2026-09-23,DEMO-01,"Demo 01 (video, problem-first hook)",video,9821,255,1792.12
+2026-09-23,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,9748,124,1829.0
+2026-09-23,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,7068,101,1074.19
+2026-09-23,DEMO-04,"Demo 04 (video, unboxing) - launched late",video,8371,167,1507.67
+2026-09-23,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,514,5,78.11
+2026-09-23,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,9768,188,1649.69
+2026-09-23,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,6781,80,1217.61
+2026-09-23,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,7119,87,1254.65
+2026-09-23,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8161,107,1352.89
+2026-09-24,DEMO-01,"Demo 01 (video, problem-first hook)",video,8401,203,1330.0
+2026-09-24,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,10271,121,1631.05
+2026-09-24,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,7568,111,1271.41
+2026-09-24,DEMO-04,"Demo 04 (video, unboxing) - launched late",video,7423,144,1140.38
+2026-09-24,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,484,5,77.23
+2026-09-24,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8565,172,1588.72
+2026-09-24,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,7349,87,1224.02
+2026-09-24,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6531,81,1068.0
+2026-09-24,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,7755,99,1463.43
+2026-09-25,DEMO-01,"Demo 01 (video, problem-first hook)",video,8326,208,1458.59
+2026-09-25,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,10189,112,1638.81
+2026-09-25,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,6647,92,1115.59
+2026-09-25,DEMO-04,"Demo 04 (video, unboxing) - launched late",video,8726,181,1613.57
+2026-09-25,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,452,4,80.63
+2026-09-25,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,9712,194,1684.91
+2026-09-25,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,6300,75,1178.56
+2026-09-25,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6923,90,1307.68
+2026-09-25,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8072,101,1260.65
+2026-09-26,DEMO-01,"Demo 01 (video, problem-first hook)",video,9040,230,1696.44
+2026-09-26,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,9921,110,1791.65
+2026-09-26,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,6940,98,1051.98
+2026-09-26,DEMO-04,"Demo 04 (video, unboxing) - launched late",video,8451,165,1578.62
+2026-09-26,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,514,4,79.73
+2026-09-26,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8553,173,1521.95
+2026-09-26,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,6456,74,1103.83
+2026-09-26,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6607,82,1050.14
+2026-09-26,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8671,107,1405.23
+2026-09-27,DEMO-01,"Demo 01 (video, problem-first hook)",video,8929,233,1569.57
+2026-09-27,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,10229,107,1630.41
+2026-09-27,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,6645,97,1184.05
+2026-09-27,DEMO-04,"Demo 04 (video, unboxing) - launched late",video,7691,146,1306.95
+2026-09-27,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,517,4,82.87
+2026-09-27,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,9301,194,1479.52
+2026-09-27,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,6347,75,1058.82
+2026-09-27,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6737,82,1225.34
+2026-09-27,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8906,116,1409.01
+2026-09-28,DEMO-01,"Demo 01 (video, problem-first hook)",video,9845,241,1799.67
+2026-09-28,DEMO-02,"Demo 02 (video, testimonial) - fatiguing",video,8988,87,1621.6
+2026-09-28,DEMO-03,"Demo 03 (static, offer) - paused mid-month",static,6712,98,1139.9
+2026-09-28,DEMO-04,"Demo 04 (video, unboxing) - launched late",video,7499,146,1249.94
+2026-09-28,DEMO-05,"Demo 05 (carousel, bestsellers) - low volume",carousel,516,4,80.42
+2026-09-28,DEMO-06,"Demo 06 (video, founder story) - dipped then recovered",video,8808,171,1664.4
+2026-09-28,DEMO-08,"Demo 08 (static, before-after) - just over threshold",static,6498,74,990.33
+2026-09-28,DEMO-09,"Demo 09 (carousel, reviews) - mild decline",carousel,6361,83,1178.97
+2026-09-28,DEMO-10,"Demo 10 (video, festive) - late launch, now fatigued",video,8895,121,1665.71
