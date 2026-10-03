@@ -4,8 +4,10 @@ Monastic Media AI Engineer fast-track challenge, by Sriram Nalla.
 
 Upload daily Meta ad performance data and see which creatives have **lost 30% or more of their baseline CTR**. The same logic is available as a web app, a JSON API and an MCP tool.
 
-- **Live app:** _add your Vercel URL here_
-- **Demo video:** _add your 2-minute recording link here_
+- **Live app:** https://monastic-media-sriram-challenge.vercel.app
+- **Repo:** https://github.com/sriramnalla30/monastic-media-sriram-challenge
+- **Prompts:** [prompts/PROMPTS.md](prompts/PROMPTS.md) and [CLAUDE.md](CLAUDE.md)
+- **Demo video:** not included
 
 ## The rule
 
@@ -40,22 +42,22 @@ Upload a CSV, paste a CSV URL (the Monastic Media sample URL is pre-filled), or 
 ### JSON API
 ```bash
 # CSV by URL
-curl "https://<your-app>/api/flag?csv_url=https://api.monastic.media/functions/v1/careers-mcp/challenge/sample-data.csv&drop_threshold=0.3"
+curl "https://monastic-media-sriram-challenge.vercel.app/api/flag?csv_url=https://api.monastic.media/functions/v1/careers-mcp/challenge/sample-data.csv&drop_threshold=0.3"
 
 # CSV in the body
-curl -X POST "https://<your-app>/api/flag?drop_threshold=30" -H "content-type: text/csv" --data-binary @data.csv
+curl -X POST "https://monastic-media-sriram-challenge.vercel.app/api/flag?drop_threshold=30" -H "content-type: text/csv" --data-binary @data.csv
 
 # JSON body
-curl -X POST https://<your-app>/api/flag -H "content-type: application/json" \
+curl -X POST https://monastic-media-sriram-challenge.vercel.app/api/flag -H "content-type: application/json" \
   -d '{"csv_url": "https://.../data.csv", "drop_threshold": 0.3, "min_impressions": 5000}'
 ```
 `drop_threshold` takes a fraction (`0.3`) or a percent (`30`). Bad input returns HTTP 400 with a readable `error`.
 
 ### MCP tool
-The endpoint `https://<your-app>/api/mcp` is a stateless Streamable HTTP MCP server with one tool, `flag_fatigued_creatives(csv_url, drop_threshold, min_impressions?, include_daily?)`.
+The endpoint `https://monastic-media-sriram-challenge.vercel.app/api/mcp` is a stateless Streamable HTTP MCP server with one tool, `flag_fatigued_creatives(csv_url, drop_threshold, min_impressions?, include_daily?)`.
 
 ```bash
-claude mcp add --transport http fatigue-flagger https://<your-app>/api/mcp
+claude mcp add --transport http fatigue-flagger https://monastic-media-sriram-challenge.vercel.app/api/mcp
 ```
 Then ask: *"Which creatives in https://…/sample-data.csv are fatigued?"*
 
